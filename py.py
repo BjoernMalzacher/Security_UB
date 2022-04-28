@@ -1,1 +1,2 @@
-lolololol
+print("hallo")
+
